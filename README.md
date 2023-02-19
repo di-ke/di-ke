@@ -5,22 +5,15 @@
 
 ### About Me
 <img align="right" alt="GIF" src="https://github.com/Danny10ison/Danny10ison/blob/main/coding.gif?raw=true" width="408" height="318" />
+
 - 🔭 I’m currently working on [Something](google.com)
-
 - 🌱 I’m currently learning **Something**
-
 - 👯 I’m looking to collaborate on [Something](google.com)
-
 - 🤝 I’m looking for help with [Something](google.com)
-
 - 👨‍💻 All of my projects are available at [google.com](google.com)
-
 - 📝 I regularly write articles on [google.com](google.com)
-
 - 💬 Ask me about **Something**
-
 - 📫 How to reach me **google.com**
-
 - 📄 Know about my experiences [google.com](google.com)
 
 
