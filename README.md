@@ -1,5 +1,5 @@
 
-<img align="left" alt="Linux" height="300px"  src="https://github.com/di-ke/di-ke/blob/main/banner.png" />
+<img align="left" alt="Linux" height="500px"  src="https://github.com/di-ke/di-ke/blob/main/banner.png" />
 
 <h1 align="center">Hi 👋, I'm Daniel Osei</h1>
 <h4 align="center">The Tech Enthusiast</h4>
