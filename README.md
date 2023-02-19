@@ -22,6 +22,8 @@
 
 - 📄 Know about my experiences [google.com](google.com)
 
+<img align="right" alt="GIF" src="https://github.com/Danny10ison/Danny10ison/blob/main/coding.gif?raw=true" width="408" height="318" />
+
 ### Socials
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/0F_dike)
 
