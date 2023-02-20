@@ -35,5 +35,5 @@
 <br />
 
 ### Latest Update
-<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=0F_dike&theme=dracula&response=true&border=true&time=true&icon=default"/></a>
+<a href="https://twitter.com/0F_dike"><img src="https://gtce.itsvg.in/api?username=0F_dike&theme=dracula&response=true&border=true&time=true&icon=default"/></a>
 
